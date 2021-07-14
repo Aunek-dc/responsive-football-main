@@ -19,7 +19,6 @@ header{
     width: 485px;
     height: 500px;
     margin-left: 157px;
-    margin-right: 101px;
     margin-top: 216px;
     margin-bottom: 18px;
     font-family: 'Poppins', sans-serif;
@@ -60,7 +59,6 @@ top: 153px;
 }
 .header-image{
     margin-top: 153px;
-    margin-right: 141px;
-    margin-bottom: 86px;
     margin-left: 101px;
+    margin-right: 141px;
 }
