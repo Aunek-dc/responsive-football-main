@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+body{
+    width: 1440px;
+}
 body h1{
     font-family: 'Poppins', sans-serif;
 }
@@ -6,7 +9,6 @@ body h1{
 /* Started upper section as head */
 header{
     background-color: #2D25A0;
-    width: 1440px;
 }
 /* Start add description title and image */
 .description-image{
@@ -79,9 +81,6 @@ main{
 .middle-section{
     width: 1050px;
 }
-.Container{
-
-}
 
 /* Players style */
 .players{
@@ -108,3 +107,33 @@ main{
     margin-bottom: 27px;
 }
 /* Players style finished */
+
+/* Footer section started */
+.image-colab{
+    margin-top: 158px;
+    display: grid;
+    margin-left: 517px;
+    margin-right: 439px;
+}
+.image-colab img{
+    width: 484px;
+    height: 110px;
+}
+.atags{
+    width: 170px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    margin-left: 674px;
+}
+.atags a{
+    margin-right: 14px;
+}
+.ptag{
+    display: flex;
+    justify-content: center;
+}
+i{
+    color: #969BAB;
+}
+/* Footer section ends */
